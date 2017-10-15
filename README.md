@@ -12,5 +12,5 @@ Representing the Engineering and Architecture School of the University of Zarago
 * Alberto Mur
 * Arturo Hermosa Moreno
 * Marcos Canales Mayo
-* Yihua Tsai
+* Yihua Tsai (Photograph and media)
 * Victor Viñals Yúfera (Proctor)
