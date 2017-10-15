@@ -1,8 +1,8 @@
 # IEEEXtreme 11
 Representing the Engineering and Architecture School of the University of Zaragoza.
 
-* Submitted for 7 tasks
-* Completed 2 tasks
+* Submitted solutions for 8 tasks
+* 100% solved 2 tasks
 * Scored 160.8 points
 * Ranked #1151 out of 3350 worldwide
 * Ranked #10 out of 21 in Spain.
